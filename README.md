@@ -1,1 +1,2 @@
-# 100_Days_Of_Python
+# python
+100 Days of Code with Python
